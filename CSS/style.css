@@ -1,0 +1,70 @@
+     /* selector {style declaration}
+          h1      {color:orange;} */
+
+     /* tag or element selector */
+     /* h1{
+            color:orange;
+        } */
+
+     /* universal selector  */
+     /* *{
+            color:blue;
+         } */
+
+         /* class selector  */
+
+     .error {
+         color: red;
+     }
+
+     .success {
+         color: green;
+     }
+
+     /*id selector  */
+     #test {
+         color: deeppink;
+     }
+
+     .orange{
+        background-color: orange;
+        text-align: center;
+        line-height: 2;
+        letter-spacing: 4px;
+        word-spacing: 20px;
+     }
+
+     .yellow{
+        background-color: yellow;
+     }
+
+     .font-style{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: italic;
+        font-weight: bold;
+        text-decoration: underline;
+        font-size: 50px;
+     }
+
+     ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+     }
+
+     .box-model{
+        border:2px solid red;
+        height: 50px;
+        width: 300px;
+        padding-left: 150px;
+        padding-top: 25px;
+        margin: 10px;
+     }
+
+     h2{
+        color: red;
+     }
+
+     h2{
+        color: b;
+     }
